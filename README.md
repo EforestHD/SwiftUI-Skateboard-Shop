@@ -1,4 +1,5 @@
-# Clean Food
+# Skateshop Template iOS App
+
  Native Swift iOS App Food Overhaul
 
 ![Restaurant](https://git.service.baltic-online.de/ewk/CleanFood/src/branch/master/Screenshots/Restaurants.png)
