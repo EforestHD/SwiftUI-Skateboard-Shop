@@ -2,7 +2,7 @@
 
  Native Swift iOS App Food Overhaul
 
-![Startpage](https://github.com/EforestHD/SkateShop/tree/master/Screenshots/Startpage.png)
+![Startpage](https://github.com/EforestHD/SkateShop/blob/master/Screenshots/Startpage.png)
 
 
 Quick Guide:
