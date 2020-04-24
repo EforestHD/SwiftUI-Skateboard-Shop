@@ -2,8 +2,8 @@
 
  Native Swift iOS App Food Overhaul
 
-![Startseite](https://github.com/EforestHD/SkateShop/tree/master/Screenshots/Startseite.png)
-
+| ![Startpage](https://github.com/EforestHD/SkateShop/blob/master/Screenshots/Startpage.png) | ![Schuhe](https://github.com/EforestHD/SkateShop/blob/master/Screenshots/Schuhe.png) | ![Schuh](https://github.com/EforestHD/SkateShop/blob/master/Screenshots/Schuh.png) |
+| -------- | -------- | -------- |
 
 Quick Guide:
  1. For importing into XCODE just download the app from the AppStore. 
