@@ -3,7 +3,7 @@
 
  Native Swift iOS App Food Overhaul
 
-| https://github.com/EforestHD/SwiftUI-Skateboard-Shop/blob/master/Screenshots/screenshot.png | <img src="https://github.com/EforestHD/SwiftUI-Skateboard-Shop/blob/master/Screenshots/video.gif"> |  |
+| <img src="https://github.com/EforestHD/SwiftUI-Skateboard-Shop/blob/master/Screenshots/screenshot.png"> | <img src="https://github.com/EforestHD/SwiftUI-Skateboard-Shop/blob/master/Screenshots/video.gif"> |  |
 | -------- | -------- | -------- |
 
 
